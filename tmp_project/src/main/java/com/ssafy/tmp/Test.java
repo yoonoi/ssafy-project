@@ -3,11 +3,11 @@ package com.ssafy.tmp;
 public class Test {
 
 	public static void main(String[] args) {
-		System.out.println("а╤ю╠©╣ х╝юн");
-		// ╨╩юнюл╦╖ аж╪╝ аЖ©Л╟М commit ╣г╢баЖ х╝юнгьаж╪╪©Д
-		System.out.println("╧за╬╧н х╝юн");
-		System.out.println("а╓юг╪╝ х╝юн");
-//		System.out.println("юлажхЯ х╝юн");
+		System.out.println("О©╫О©╫О©╫О©╫О©╫О©╫ х╝О©╫О©╫");
+		// О©╫О©╫О©╫О©╫О©╫л╦О©╫ О©╫ж╪О©╫ О©╫О©╫О©╫О©╫О©╫ commit О©╫г╢О©╫О©╫О©╫ х╝О©╫О©╫О©╫О©╫О©╫ж╪О©╫О©╫О©╫
+		System.out.println("О©╫О©╫О©╫О©╫О©╫О©╫ х╝О©╫О©╫");
+		System.out.println("О©╫О©╫О©╫г╪О©╫ х╝О©╫О©╫");
+		System.out.println("О©╫О©╫О©╫О©╫О©╫О©╫ х╝О©╫О©╫");
 	}
 
 }
